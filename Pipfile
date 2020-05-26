@@ -6,6 +6,8 @@ verify_ssl = true
 [dev-packages]
 pylint = "*"
 black = "*"
+pylint-django = "*"
+setuptools = "*"
 
 [packages]
 django = "~=2.2"
